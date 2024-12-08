@@ -17,7 +17,7 @@ Bu web uygulaması aslında temelde kullanıcı tarafından sağlanan veri setin
 
 ### Kurulum
 ```
-git clone [https://github.com/Muhammetcansimsek/streamlit.git]
+git clone https://github.com/Muhammetcansimsek/streamlit.git
 
 python3 -m venv web_app_env
 
